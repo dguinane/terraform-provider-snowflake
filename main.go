@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/sadhasivam/terraform-provider-snowflake/snowflake"
+	"github.com/dguinane/terraform-provider-snowflake/snowflake"
 )
 
 func main() {
